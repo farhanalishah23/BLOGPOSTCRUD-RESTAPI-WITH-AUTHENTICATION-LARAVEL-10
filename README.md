@@ -1,4 +1,4 @@
-# Simple Authentication APIs & BlogPost CRUD with Image Insert in Laravel 10
+# Authentication APIs & BlogPost CRUD with Image Insert in Laravel 10
 
 This project demonstrates a **Simple Authentication API** for **User Login** and **Registration**, alongside **BlogPost CRUD** operations (Create, Read, Update, Delete) with **Image Upload** functionality. The project is built using **Laravel 10**, **PHP**, and **MySQL**.
 
